@@ -1,1 +1,1 @@
-# Rick-and-Morty-Adventure
+# Morty-Adventure
